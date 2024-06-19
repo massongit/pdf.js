@@ -43,7 +43,7 @@
     "postcss-dir-pseudo-class": "^6.0.5",
     "postcss-logical": "^5.0.4",
     "prettier": "^2.8.0",
-    "puppeteer": "^19.0.0",
+    "puppeteer": "^22.11.2",
     "rimraf": "^3.0.2",
     "streamqueue": "^1.1.2",
     "stylelint": "^14.15.0",
